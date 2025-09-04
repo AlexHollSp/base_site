@@ -1,0 +1,18 @@
+// Imports SASS
+@use "./sass/colors";
+@use "./sass/layout";
+@use "./sass/spacing";
+@use "./sass/typography";
+
+
+
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
